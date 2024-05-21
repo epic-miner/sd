@@ -22,4 +22,4 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # Launch the application
-python launch.py
+python launch.py --share
